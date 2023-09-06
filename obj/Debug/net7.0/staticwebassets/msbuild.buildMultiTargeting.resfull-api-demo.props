@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/resfull-api-demo.props" />
+</Project>
